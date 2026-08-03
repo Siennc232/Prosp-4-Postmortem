@@ -1,3 +1,4 @@
+![Uploading media-kit.png…]()
 # IMC Prosperity 4: Trading Research Notes
 
 This was an independent trading research project. I used the IMC Prosperity 4 market simulator to study how market data, execution assumptions, and risk controls interact. My goal was not to find one perfect rule. It was to build a more reliable research process.
