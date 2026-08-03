@@ -31,7 +31,7 @@ I did not assume that a signal was useful just because it looked good in a chart
 
 ### Why I Used Wall-Mid
 
-The best bid and best ask can move because of very small orders. This made the raw mid-price noisy in the Round 3 and Round 4 data. I therefore compared it with a `wall-mid`: the average of price levels that held meaningful displayed depth.
+Inspired by the 2nd team in Prosperity 3. The best bid and best ask can move because of very small orders. This made the raw mid-price noisy in the Round 3 and Round 4 data. I therefore compared it with a `wall-mid`: the average of price levels that held meaningful displayed depth.
 
 I used wall-mid mainly for `HYDROGEL_PACK`. For `VELVETFRUIT_EXTRACT`, it was a more stable fair-value anchor. In both cases, it helped separate a short-lived quote change from a change in the broader order book. I used it as a fair-value reference, not as a prediction that every price would revert immediately.
 
