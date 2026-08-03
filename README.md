@@ -1,4 +1,5 @@
-![Uploading media-kit.png…]()
+<img width="1200" height="630" alt="media-kit" src="https://github.com/user-attachments/assets/1ab598e6-4f33-425c-b792-835ec8f3193f" />
+
 # IMC Prosperity 4: Trading Research Notes
 
 This was an independent trading research project. I used the IMC Prosperity 4 market simulator to study how market data, execution assumptions, and risk controls interact. My goal was not to find one perfect rule. It was to build a more reliable research process.
