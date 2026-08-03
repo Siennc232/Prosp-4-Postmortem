@@ -136,7 +136,3 @@ The second figure contains 33 recorded Round 4 voucher-cover variants. The black
 ![Round 4 voucher cover-rule sweep](assets/research/r4_voucher_cover_sweep.png)
 
 The notebook also produces a [Round 4 cumulative replay figure](assets/research/r4_cumulative_replay.png) from the full-day results. Round 5 is intentionally absent from the notebook because the recovered archive does not include its final source or raw event-backtest CSVs.
-
-## Scope Note
-
-I checked product names, position limits, and round rules against a public Prosperity 4 write-up. I used it only to validate the competition context. The analysis, implementation, and strategy decisions in these notes were developed independently.
