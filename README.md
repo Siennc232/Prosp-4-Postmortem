@@ -107,7 +107,3 @@ This process overturned several earlier conclusions. More products did not autom
 - Product-level returns can hide family-level risk.
 - A good strategy should be evaluated across days and market regimes, not by one strong result.
 - Risk controls should address a diagnosed failure mode. Broad defensive rules can remove the alpha as well as the risk.
-
-## Scope Note
-
-I checked product names, position limits, and round rules against a public Prosperity 4 write-up. I used it only to validate the competition context. The analysis, implementation, and strategy decisions in these notes were developed independently.
